@@ -14,4 +14,5 @@ My current research focuses on **traffic safety, deep learning, big data, connec
 
 News
 ===
+- 8/2021: I successfully defended my PhD dissertation titled "Real-time Traffic Safety Evaluation in The Context of Connected Vehicles and Mobile Sensing".
 - 1/2021: I will present three papars at TRB 2021, [Using Bus Driving Events as Surrogate Safety Measures for Pedestrian and Bicycle Based on GPS Trajectory Data](https://ww6.aievolution.com/trbam2021/index.cfm?do=ev.viewEv&ev=4308), [Trajectory Fusion-based Real-Time Crash Likelihood Prediction Using LSTM-CNN with Attention Mechanism](https://ww6.aievolution.com/trbam2021/index.cfm?do=ev.viewEv&ev=4312), and [Driving Behavior Detection Using Semi-supervised LSTM and Smartphone Sensors](https://ww6.aievolution.com/trbam2021/index.cfm?do=ev.viewEv&ev=2308).
