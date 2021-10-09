@@ -17,8 +17,11 @@ author_profile: true
 
 Journal Papers
 ======
-# 2020
 
+# 2021
+1. Kusari, A., **Li, P.**, Yang, H., Punshi, N., Rasulis, M., Bogard, S., & LeBlanc, D. J. (2021). Enhancing SUMO simulator for simulation based testing and validation of autonomous vehicles. arXiv preprint arXiv:2109.11620.
+
+# 2020
 1. **Li, P.**, Abdel-Aty, M. and Yuan, J., 2020. ["Using bus critical driving events as surrogate safety measures for pedestrian and bicycle crashes based on GPS trajectory data"](https://www.researchgate.net/publication/347440659_Using_bus_critical_driving_events_as_surrogate_safety_measures_for_pedestrian_and_bicycle_crashes_based_on_GPS_trajectory_data). Accident Analysis & Prevention, 150.
 
 2. **Li, P.**, Abdel-Aty. M, Cai, Q. and Islam, Z., 2020. ["A Deep Learning Approach to Detect Real-Time Vehicle Maneuvers Based on Smartphone Sensors".](https://ieeexplore.ieee.org/document/9242246?fbclid=IwAR3T9vOiqEQN6lVYAhiHHltG23maOFwcwj98HxUfZni85kPQ9hcXy5vL8HM) IEEE Transactions on Intelligent Transportation Systems.
