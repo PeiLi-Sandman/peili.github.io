@@ -15,6 +15,7 @@ My current research focuses on **traffic safety, deep learning, big data, connec
 News
 ===
 
+- 10/21: I will present two papers at TRB 2022, Improving Spatio-temporal Transferability of Real-Time Crash Likelihood Prediction Models Using Transfer Learning Approaches, and "Real-time Secondary Crash Likelihood Prediction Using A Hybrid Machine Learning Model".
 - 9/2021: We have published [Naturalistic-SUMO-Gym](https://github.com/arpan-kusari/Naturalistic-SUMO-Gym), which aims to enhance SUMO traffic simulation using OPENAI-Gym and naturalistic driving data.
 - 9/2021: I have joined the UMTRI as a postdoctoral research associate.
 - 6/2021: I successfully defended my PhD dissertation titled "Real-time Traffic Safety Evaluation in The Context of Connected Vehicles and Mobile Sensing".
