@@ -17,6 +17,9 @@ author_profile: true
 
 Journal Papers
 ======
+# 2021
+1. **Li, P.**, Abdel-Aty, M. and Islam, Z., 2021. ["Driving Maneuvers Detection using Semi-Supervised Long Short-Term Memory and Smartphone Sensors"](https://doi.org/10.1177/03611981211007483). Transportation Research Record, p.03611981211007483.
+
 # 2020
 1. **Li, P.**, Abdel-Aty, M. and Yuan, J., 2020. ["Using bus critical driving events as surrogate safety measures for pedestrian and bicycle crashes based on GPS trajectory data"](https://www.researchgate.net/publication/347440659_Using_bus_critical_driving_events_as_surrogate_safety_measures_for_pedestrian_and_bicycle_crashes_based_on_GPS_trajectory_data). Accident Analysis & Prevention, 150.
 
