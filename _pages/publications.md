@@ -17,6 +17,9 @@ author_profile: true
 
 Journal Papers
 ======
+#2022
+1. **Li, P.**, Abdel-Aty. M, 2022. ["A Hybrid Machine Learning Model for Predicting Real-time Secondary Crash Likelihood"](https://doi.org/10.1016/j.aap.2021.106504). Accident Analysis and Prevention, 165.
+
 # 2021
 1. **Li, P.**, Abdel-Aty, M. and Islam, Z., 2021. ["Driving Maneuvers Detection using Semi-Supervised Long Short-Term Memory and Smartphone Sensors"](https://doi.org/10.1177/03611981211007483). Transportation Research Record, p.03611981211007483.
 
