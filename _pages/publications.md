@@ -17,7 +17,7 @@ author_profile: true
 
 Journal Papers
 ======
-#2022
+# 2022
 1. **Li, P.**, Abdel-Aty. M, 2022. ["A Hybrid Machine Learning Model for Predicting Real-time Secondary Crash Likelihood"](https://doi.org/10.1016/j.aap.2021.106504). Accident Analysis and Prevention, 165.
 
 # 2021
