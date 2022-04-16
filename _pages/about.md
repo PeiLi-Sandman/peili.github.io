@@ -16,7 +16,7 @@ News
 ===
 
 - 4/2022: One [paper](https://arxiv.org/abs/2109.11620) has been accepted at 2022 IEEE Intelligent Vehicles Symposium.
-- 1/2022: We have won the first place in the TRANSFOR22 competition organized by the TRB AED50 committee.
+- 1/2022: We have won the first place in the [TRANSFOR22](https://ouster.com/blog/using-ouster-lidar-data-to-advance-intersection-safety-research/) competition organized by the TRB AED50 committee.
 - 11/2021: One paper has been published in AAP. This study has proposed a hybrid machine learning model for predicting real-time secondary crash likelihood. The paper can be accessed via this [link](https://doi.org/10.1016/j.aap.2021.106504).
 - 10/2021: I will present two papers at TRB 2022, "Improving Spatio-temporal Transferability of Real-Time Crash Likelihood Prediction Models Using Transfer Learning Approaches" and "Real-time Secondary Crash Likelihood Prediction Using A Hybrid Machine Learning Model".
 - 9/2021: We have published [Naturalistic-SUMO-Gym](https://github.com/arpan-kusari/Naturalistic-SUMO-Gym), which aims to enhance SUMO traffic simulation using OPENAI-Gym and naturalistic driving data.
