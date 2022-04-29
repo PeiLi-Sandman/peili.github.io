@@ -15,7 +15,7 @@ My current research focuses on **traffic safety, deep learning, big data, connec
 News
 ===
 
-- 4/2022: One [paper] (https://ascelibrary.org/doi/full/10.1061/JTEPBS.0000697) has been published in the Journal of Transportation Engineering, Part A: Systems.
+- 4/2022: One [paper](https://ascelibrary.org/doi/full/10.1061/JTEPBS.0000697) has been published in the Journal of Transportation Engineering, Part A: Systems.
 - 4/2022: One [paper](https://arxiv.org/abs/2109.11620) has been accepted at 2022 IEEE Intelligent Vehicles Symposium.
 - 1/2022: We have won the first place in the [TRANSFOR22](https://ouster.com/blog/using-ouster-lidar-data-to-advance-intersection-safety-research/) competition organized by the TRB AED50 committee.
 - 11/2021: One paper has been published in AAP. This study has proposed a hybrid machine learning model for predicting real-time secondary crash likelihood. The paper can be accessed via this [link](https://doi.org/10.1016/j.aap.2021.106504).
