@@ -20,6 +20,7 @@ Journal Papers
 # 2022
 1. **Li, P.**, Abdel-Aty. M, 2022. ["A Hybrid Machine Learning Model for Predicting Real-time Secondary Crash Likelihood"](https://doi.org/10.1016/j.aap.2021.106504). Accident Analysis and Prevention, 165.
 2. **Li, P.**, Abdel-Aty. M, 2022. ["Real-Time Crash Likelihood Prediction Using Temporal Attention–Based Deep Learning and Trajectory Fusion"](hhttps://ascelibrary.org/doi/full/10.1061/JTEPBS.0000697). Journal of Transportation Engineering, Part A: Systems, 148.
+3. **Li, P.**, Abdel-Aty. M, Zhang, S., 2022. ["Improving Spatiotemporal Transferability of Real-Time Crash Likelihood Prediction Models Using Transfer-Learning Approaches"](https://doi.org/10.1177/03611981221094289). Transportation Research Record.
 
 # 2021
 1. **Li, P.**, Abdel-Aty, M. and Islam, Z., 2021. ["Driving Maneuvers Detection using Semi-Supervised Long Short-Term Memory and Smartphone Sensors"](https://doi.org/10.1177/03611981211007483). Transportation Research Record, p.03611981211007483.
