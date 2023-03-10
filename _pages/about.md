@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at the University of Wisconsin-Madison. My current research focuses on **traffic safety, deep learning, big data, connected vehicles, and traffic simulation**. My CV is available from [here](https://peili-sandman.github.io/files/cv_pei.pdf).
+I am a [scientist](https://directory.engr.wisc.edu/cee/Staff/Li_Pei/) at the University of Wisconsin-Madison. My current research focuses on **traffic safety, deep learning, big data, connected vehicles, and traffic simulation**. My CV is available from [here](https://peili-sandman.github.io/files/cv_pei.pdf).
 
 
 <!---
